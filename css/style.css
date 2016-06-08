@@ -1,0 +1,12 @@
+body {
+  margin-top: 35px;
+}
+
+.larger-image {
+  width: 100%;
+}
+
+.img-responsive {
+  display: inline;
+  float: clear both;
+  }
